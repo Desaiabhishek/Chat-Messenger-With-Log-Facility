@@ -13,7 +13,7 @@
 
 ## Demo 
 
-We Will add Link Soon
+https://youtube.com/watch?v=3pph6_msc70&feature=shares
 ## Authors
 
 @Desaiabhishek
@@ -29,7 +29,7 @@ Install JDK
 ```bash
   git clone https://github.com/Desaiabhishek/Chat-Messenger-With-Log-Facility/tree/master
   
-```
+```bash
   cd Chat  
   
 ```
