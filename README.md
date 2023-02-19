@@ -33,16 +33,24 @@ Install JDK
   go to folder
 ```
   cd Chat  
+  ```
+  compile server file  
   
 ```
   javac server.java
 
 ```
+compile client file
+```
   javac client.java 
 
  ```
+ run server.class file
+ ```
   java server  
 
+```
+ run client.class file
 ```
   java client
   
